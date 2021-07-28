@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -o pipefail
+
+bashbintree.init
+
+echo "Exec root"
